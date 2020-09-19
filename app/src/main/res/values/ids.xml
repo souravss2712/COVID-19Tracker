@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvtests" type="id" />
+    <item name="tvCountry" type="id" />
+</resources>
